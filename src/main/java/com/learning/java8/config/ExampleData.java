@@ -26,7 +26,7 @@ public class ExampleData {
             new Product (FOOD, "Tomato Sauce", new BigDecimal (1.69))
             );
 
-    public static List<Product> getPRODUCTS() {
+    public static List<Product> getProducts() {
         return PRODUCTS;
     }
 }

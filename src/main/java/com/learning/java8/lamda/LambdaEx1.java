@@ -13,7 +13,7 @@ public class LambdaEx1 {
     private static final Logger logger = LoggerFactory.getLogger (LambdaEx1.class);
 
     public static void lamdaEx(){
-        List<Product> products = ExampleData.getPRODUCTS ();
+        List<Product> products = ExampleData.getProducts ();
         //logger.info (products.toString ());
 
 
